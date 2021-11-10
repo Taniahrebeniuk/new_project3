@@ -10,12 +10,12 @@ public class CheckPassFail_program {
         num = scanner.nextInt();
 
         if (num >= 50) {
-            System.out.println("PASS");
-            System.out.println("DONE");
+            System.out.println("PASS.DONE");
+
 
         } else {
-            System.out.println("FAIL");
-            System.out.println("DONE");
+            System.out.println("FAIL.DONE");
+
         }
 
     }

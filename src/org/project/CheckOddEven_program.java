@@ -10,11 +10,11 @@ public class CheckOddEven_program {
         number = scanner.nextInt();
 
         if (number % 2 == 0) {
-            System.out.println("Even number");
-            System.out.println("BYE");
+            System.out.println("Even number.BYE");
+
         } else {
-            System.out.println("Odd number");
-            System.out.println("BYE");
+            System.out.println("Odd number.BYE");
+
         }
     }
 }
